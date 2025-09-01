@@ -1,0 +1,60 @@
+<html>
+<head>
+    <title>Hatta Adzikra Fadly - CV</title>
+</head>
+<body>
+
+    <center>
+        <h1>Hatta Adzikra Fadly</h1>
+        <p><i>Mahasiswa Teknik Informatika yang tertarik pada pengembangan web dan pemrograman.</i></p>
+        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4ShsVNtTKrE4PZRSm-15566VxvKCvza4EfPO4XGngUVPt5yLvTN26wEQ6mFS1qCJ_xGcKnsLqxiUobGstVckubuMqMiLVemzPyTZ4DxM6H4Jv55BrRpYlCokh-xo2JvbjCU5CDoDz_VIky9Or87yT3fJF3DpGmBhBqOc8QNILVye_-QmMcuT2dfXWM5LZ/s320/WhatsApp%20Image%202025-06-08%20at%2006.58.41.jpeg" alt="Foto Hatta" width="150" border="2" />
+    </center>
+
+    <h2>Informasi Kontak</h2>
+    <p>Email: <a href="mailto:hatta.adzikra05@gmail.com">hatta.adzikra05@gmail.com</a></p>
+    <p>GitHub: <a href="https://github.com/BudiSociety">BudiSociety</a></p>
+    <p>Instagram: <a href="https://www.instagram.com/hatta_adzikra/">@hatta_adzikra</a></p>
+    <p>Source Code: <a href="https://www.instagram.com/hatta_adzikra/">@hatta_adzikra</a></p>
+
+    <h2>Pendidikan</h2>
+    <table border="0" cellpadding="10" cellspacing="0" width="100%">
+        <tr>
+            <td width="30%"><b>Tahun</b></td>
+            <td width="70%"><b>Institusi</b></td>
+        </tr>
+        <tr>
+            <td>2021 - Sekarang</td>
+            <td>Institut Teknologi Sepuluh Nopember</td>
+        </tr>
+        <tr>
+            <td>2018 - 2021</td>
+            <td>SMA Negeri 1 Tangerang</td>
+        </tr>
+        <tr>
+            <td>2015 - 2018</td>
+            <td>SMPIT al-Layyinah</td>
+        </tr>
+    </table>
+
+
+    <h2>Hobi & Minat</h2>
+    <ul>
+        <li>Bermain catur</li>
+        <li>Menulis</li>
+        <li>Matematika</li>
+        <li>Koding</li>
+    </ul>
+
+    <h2>Hubungi Saya</h2>
+    <form>
+        Nama:<br />
+        <input name="nama" type="text" size="40" /><br /><br />
+        Email:<br />
+        <input name="email" type="email" size="40" /><br /><br />
+        Pesan:<br />
+        <textarea name="pesan" cols="40" rows="5"></textarea><br /><br />
+        <input type="submit" value="Kirim Pesan" />
+    </form>
+    
+</body>
+</html>
